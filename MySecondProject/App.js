@@ -37,7 +37,7 @@ export default function MultiComp(){
 
     <View style = {{
       flex: 1,
-      justifyContent: 'Center',
+      justifyContent: 'center',
       alignItems: 'center'
     
     }}>
